@@ -1,0 +1,57 @@
+header{
+    background-color:#004B93;
+ }
+ button, input {
+    margin-top: 5%;
+    overflow: visible;
+ }
+    
+     
+ 
+ #logo{
+    width:30%;
+    height:100px;
+     
+  }
+
+    
+ 
+ footer{
+    height: 65px;
+    width: 100%;
+    background-color:#C9002B;
+ }
+ 
+ footer img{
+    margin-left: -8%;
+    height: 45px;
+    width: 12%;
+    margin-top: 1%;
+ }
+ 
+ 
+ @media only screen and (max-width: 600px) {
+ 
+    #logo{
+       width:50%;
+       margin-left:-1%; 
+     }
+    footer{
+        float: left;
+        height: 50px;
+        width: 100%;
+        background-color:red;
+    }
+    footer img{
+        margin-left: -5%;
+        height: 50%;
+        width: 16%;
+    }
+ 
+ }
+
+ img#dados{
+     width:100px;
+     height:150px;
+ }
+ 
