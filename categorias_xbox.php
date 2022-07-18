@@ -16,10 +16,10 @@ include_once './includes/_dados.php';
 $Xbox = array(
     
  
-    0 =>  array('nome'=>'Virtual Tennis ','preco'=>'R$80.00','descricao'=>'game de esporte viciante para toda a familia experimentar.','imagem'=>'tennis.jpg' ),
-    1 =>  array('nome'=>'Console xbox360 ','preco'=>'R$800.00','descricao'=>'Console feito no ano de 2005 com uma biblioteca grande de jogos e um dos sistema online poular de sua época.','imagem'=>'xbox.jpg' ),
-    2 =>  array('nome'=>'Battlefield 4 ','preco'=>'R$100.00','descricao'=>'Jogo feito pela ea games e mais um da frankia,agora no xbox','imagem'=>'tiro.jpg' ),
-    3 => array('nome'=>' Assasins Creed','preco'=>'R$100.00','descricao'=>'Mais um da série prestijiada da Ubisoft ','imagem'=>'creed.jpg' ),
+    2=>  array('nome'=>'Virtual Tennis ','preco'=>'R$80.00','descricao'=>'game de esporte viciante para toda a familia experimentar.','imagem'=>'tennis.jpg' ),
+    3 =>  array('nome'=>'Console xbox360 ','preco'=>'R$800.00','descricao'=>'Console feito no ano de 2005 com uma biblioteca grande de jogos e um dos sistema online poular de sua época.','imagem'=>'xbox.jpg' ),
+    9 =>  array('nome'=>'Battlefield 4 ','preco'=>'R$100.00','descricao'=>'Jogo feito pela ea games e mais um da frankia,agora no xbox','imagem'=>'tiro.jpg' ),
+    10 => array('nome'=>' Assasins Creed','preco'=>'R$100.00','descricao'=>'Mais um da série prestijiada da Ubisoft ','imagem'=>'creed.jpg' ),
 
     
 

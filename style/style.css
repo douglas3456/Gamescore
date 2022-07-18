@@ -1,5 +1,10 @@
+*{
+   padding:0;
+   margin:0;
+}
+
 header{
-    background-color:#004B93;
+    background-color:#C9002B;
  }
  button, input {
     margin-top: 5%;
@@ -19,7 +24,7 @@ header{
  footer{
     height: 65px;
     width: 100%;
-    background-color:#C9002B;
+    background-color:#004B93;
  }
  
  footer img{
@@ -40,7 +45,7 @@ header{
         float: left;
         height: 50px;
         width: 100%;
-        background-color:red;
+        background-color:#004B93;
     }
     footer img{
         margin-left: -5%;
@@ -50,8 +55,4 @@ header{
  
  }
 
- img#dados{
-     width:100px;
-     height:150px;
- }
  

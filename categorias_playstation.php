@@ -17,8 +17,8 @@ $Playstation = array(
     
     0 =>  array('nome'=>'pernalonga','preco'=>'R$150.00','descricao'=>'jogo de ultima geração, uma super aventura no ps4','imagem'=>'bigchungus.jpg' ),
     1 =>  array('nome'=>'Mario PS4 ','preco'=>'R$40.00','descricao'=>'Jogo familiar para toda a familia','imagem'=>'mario.jpg' ),
-    2 =>  array('nome'=>'Playstation 3  ','preco'=>'R$600.00','descricao'=>'Console rival do xbox, feito pela sony, possui uma biblioteca de vários jogos e franquias que surgiram no sistema. ','imagem'=>'ps3.jpg' ),
-    3 =>  array('nome'=>'Crash código para Ps3 ','preco'=>'R$20,00','descricao'=>'Código para ser inserido no playstation 3','imagem'=>'crash.jpg' ),
+    4 =>  array('nome'=>'Playstation 3  ','preco'=>'R$600.00','descricao'=>'Console rival do xbox, feito pela sony, possui uma biblioteca de vários jogos e franquias que surgiram no sistema. ','imagem'=>'ps3.jpg' ),
+    8 =>  array('nome'=>'Crash código para Ps3 ','preco'=>'R$20,00','descricao'=>'Código para ser inserido no playstation 3','imagem'=>'crash.jpg' ),
    
 
    

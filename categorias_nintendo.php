@@ -16,9 +16,9 @@ include_once './includes/_dados.php';
 $Nintendo = array(
     
    
-    0 =>  array('nome'=>'Super Nintendo ','preco'=>'R$500,00','descricao'=>'Um clásico da nintendo rodando fitas,além de trazer nostalgia','imagem'=>'Super nes.jpg' ),
-    1 =>  array('nome'=>'Game Cube','preco'=>'R$900.00','descricao'=>'Um dos consoles injustiçados da nintendo,concorrente do ps2. ','imagem'=>'cubo.jpg' ),
-    2 =>  array('nome'=>'Sonic All stars racing ds ','preco'=>'R$200.00','descricao'=>'jogo de corrida com os personagens da sega','imagem'=>'corrida.jpeg' ),
+    5 =>  array('nome'=>'Super Nintendo ','preco'=>'R$500,00','descricao'=>'Um clásico da nintendo rodando fitas,além de trazer nostalgia','imagem'=>'Super nes.jpg' ),
+    6 =>  array('nome'=>'Game Cube','preco'=>'R$900.00','descricao'=>'Um dos consoles injustiçados da nintendo,concorrente do ps2. ','imagem'=>'cubo.jpg' ),
+    7 =>  array('nome'=>'Sonic All stars racing ds ','preco'=>'R$200.00','descricao'=>'jogo de corrida com os personagens da sega','imagem'=>'corrida.jpeg' ),
    
 
    
