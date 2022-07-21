@@ -10,7 +10,7 @@ header{
     margin-top: 5%;
     overflow: visible;
  }
-    
+
      
  
  #logo{
@@ -52,7 +52,10 @@ header{
         height: 50%;
         width: 16%;
     }
- 
+    img{
+      height:100%;
+      width:50%;
+      }
  }
 
  
