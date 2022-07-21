@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    
     <link rel="stylesheet" href="./style/style.css">
-    
+   
     <title>Gamescore</title>
     <div vw class="enabled">
             <div vw-access-button class="active"></div>
