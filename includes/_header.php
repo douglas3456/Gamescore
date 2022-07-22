@@ -19,6 +19,7 @@
     <a class="nav-link" href="categorias_playstation.php">Playstation</a>
     <a class="nav-link" href="categorias_nintendo.php">Nintendo</a> 
     <a class="nav-link" href="categorias_xbox.php">Xbox</a> 
+    <a class="nav-link" href="cadastro.php">cadastrar</a> 
   </li>
     <li class="nav-item">
     
